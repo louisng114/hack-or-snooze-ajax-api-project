@@ -1,0 +1,27 @@
+/* Login and signup forms */
+
+.account-form button {
+  width: 4rem;
+  margin-left: 80px;
+}
+
+#signup-form button {
+  width: 8rem;
+}
+
+.account-forms-container {
+  padding-left: 20px;
+}
+
+#profile-container {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+#account-deletion-button {
+  background-color: red;
+}
+
+#account-deletion-confirmation-button {
+  background-color: red;
+}
